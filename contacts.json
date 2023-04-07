@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": 0,
+      "fullName": "Cятковская Екатерина Дмитриевна",
+      "phoneNumber": "(29)7631738"
+    },
+    {
+      "id": 1,
+      "fullName": "Skaty",
+      "phoneNumber": "(33)5698685"
+    },
+    {
+      "id": 2,
+      "fullName": "l;",
+      "phoneNumber": "(22)5555581"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    background-color: lavender;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.container {
+    width: 600px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.table th {
+    font-weight: bold;
+    padding: 5px;
+    background: lavender;
+    border: 1px solid black;
+}
+
+.table td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.table tr:hover , button:hover{
+    background-color: rgb(222, 222, 248);
+}
+
+input{
+    padding: 5px;
+    border: 1px solid black;
+}
